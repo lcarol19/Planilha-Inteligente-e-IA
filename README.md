@@ -2,7 +2,8 @@
 
  > ℹ️ **NOTE:** Esta planilha foi criada durante o Bootcamp CAIXA - IA Generativa com Microsoft Copilot realizado na plataforma [DIO](https://dio.me)
 
-<a href="https://github.com/lcarol19/prompts-recipe-to-create-a-ebook/blob/main/Explorando-a-linguagem-COBOL.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[https://github.com/lcarol19/Planilha-Inteligente-e-IA/blob/main/planilha_dio.xlsx]"> 📊Clique aqui para ver</a>
+
 
 
 ## 💻 Tecnologias utilizadas no projeto
